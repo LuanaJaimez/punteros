@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1593012756 source:c:\users\luana\desktop\workspace\ejemploll\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593011369 c:\users\luana\desktop\workspace\ejemploll\linkedlist.h
+
+1593009980 source:c:\users\luana\desktop\workspace\ejemploll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
